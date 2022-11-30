@@ -1,18 +1,19 @@
 ### Hello! I am Fernando 👋
 
+![](https://komarev.com/ghpvc/?username=fmarinf&color=yellow&style=for-the-badge)
+
 - 🔭 I’m currently working on DataSalmon as a full time Data Scientist.
 
-- 🌱 Even though my heart is with Software Engineering.
+- 🌱 Even though my heart is with Solution Architecture.
 
 - 👯 I’m looking to collaborate on Youtube/Instagram.
 
-- 💬 Ask me about Python: Data Science or Web Development (Django).
-
+- 💬 Ask me about Python, data science, web development...
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/fernando-mar%C3%ADn-172018178/), [Instagram](https://www.instagram.com/fernando.marin.f/)
 
 - 😄 Pronouns: He/Him/His
 
-- ⚡ Fun fact: I have a Geological Sciences degree.
+- ⚡ Fun fact: I have a Geological Sciences degree. LOL
 
 <img src="https://github-readme-stats.vercel.app/api?username=fmarinf&show_icons=true&theme=radical">
 
