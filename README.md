@@ -2,6 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=fmarinf&color=yellow&style=for-the-badge)
 
+![](https://leetcard.jacoblin.cool/leetcode?site=cn)
+
 - 🔭 I’m currently working on DataSalmon as a full time Data Scientist.
 
 - 🌱 Even though my heart is with Solution Architecture.
