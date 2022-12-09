@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=fmarinf&color=yellow&style=for-the-badge)
 
-![](https://leetcard.jacoblin.cool/leetcode?site=cn)
+![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=dark)
 
 - 🔭 I’m currently working on DataSalmon as a full time Data Scientist.
 
