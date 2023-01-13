@@ -17,5 +17,4 @@
 
 - ⚡ Fun fact: I have a Geological Sciences degree. LOL
 
-<img src="https://github-readme-stats.vercel.app/api?username=fmarinf&show_icons=true&theme=radical">
 
