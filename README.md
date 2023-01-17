@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on Youtube/Instagram.
 
-- 💬 Ask me about Python, data science, web development...
+- 💬 Ask me about Python, data science, batch/stream processing...
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/fernando-mar%C3%ADn-172018178/), [Instagram](https://www.instagram.com/fernando.marin.f/), [Medium](https://medium.com/@fernandomarinf).
 
 - 😄 Pronouns: He/Him/His
