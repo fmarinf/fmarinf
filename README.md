@@ -4,7 +4,7 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/fmarinf?theme=dark&font=Blinker)
 
-- 🔭 I’m currently working on DataSalmon as a full time Data Engineer.
+- 🔭 I’m currently working on Empresas SB as a full time Data Engineer.
 
 - 🌱 Even though my heart is with Solution Architecture.
 
